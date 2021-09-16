@@ -1,4 +1,4 @@
-# Media_Newsom
+# Media: Newsom
 
 Media_Newsom adds my custom media to your [LibSharedMedia](https://www.wowace.com/projects/libsharedmedia-3-0) for use within other addons.
 
