@@ -1,14 +1,14 @@
 local LSM = LibStub("LibSharedMedia-3.0")
 
 -- Borders
-LSM:Register("border", "Newsom: Drop Shadow", [[Interface\AddOns\Media_Newsom\Textures\Border_DropShadow.blp]])
+--LSM:Register("border", "Drop Shadow", [[Interface\AddOns\Media_Newsom\Textures\Border_DropShadow.blp]])
 
 -- Statusbars
-LSM:Register("statusbar", "Newsom: Short", [[Interface\Addons\Media_Newsom\Textures\Statusbar_Short.blp]])
-LSM:Register("statusbar", "Newsom: Tall", [[Interface\Addons\Media_Newsom\Textures\Statusbar_Tall.blp]])
-LSM:Register("statusbar", "Stripes", [[Interface\Addons\Media_Newsom\Textures\Statusbar_Stripes.blp]])
-LSM:Register("statusbar", "Stripes - Thin Overlay", [[Interface\Addons\Media_Newsom\Textures\Statusbar_Stripes_Thin.blp]])
-LSM:Register("statusbar", "Stripes - Thick Overlay", [[Interface\Addons\Media_Newsom\Textures\Statusbar_Stripes_Thick.blp]])
+--LSM:Register("statusbar", "Clean", [[Interface\Addons\Media_Newsom\Textures\Statusbar_Short.blp]])
+LSM:Register("statusbar", "Clean (Large)", [[Interface\Addons\Media_Newsom\Textures\Statusbar_Tall.blp]])
+--LSM:Register("statusbar", "Stripes", [[Interface\Addons\Media_Newsom\Textures\Statusbar_Stripes.blp]])
+--LSM:Register("statusbar", "Stripes - Thin Overlay", [[Interface\Addons\Media_Newsom\Textures\Statusbar_Stripes_Thin.blp]])
+--LSM:Register("statusbar", "Stripes - Thick Overlay", [[Interface\Addons\Media_Newsom\Textures\Statusbar_Stripes_Thick.blp]])
 
 -- Sounds
 LSM:Register("sound", "Newsom: Brass Error 1", [[Interface\Addons\Media_Newsom\Sounds\Brass_Error_1.mp3]])
