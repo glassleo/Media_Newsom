@@ -8,6 +8,8 @@
 
 Some screenshots:
 
+*All of these textures are included in WeakAuras2*
+
 ![Bar textures in-game screenshot](https://i.imgur.com/2hps5oX.png)
 
 ![Combination of all textures](https://i.imgur.com/FeyO29M.png)
