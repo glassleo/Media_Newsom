@@ -1,7 +1,7 @@
-## Interface: 90205
+## Interface: 90207
 ## Title: Media: |cfff48cbaNewsom|r
 ## Notes: Inserts Newsom's UI media into LibSharedMedia's storage
-## Version: 9.2.5
+## Version: 9.2.7
 ## Author: Leo (Newsom)
 
 ## OptionalDeps: LibStub, LibSharedMedia-3.0
