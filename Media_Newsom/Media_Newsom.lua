@@ -22,3 +22,4 @@ LSM:Register("sound", "Newsom: Dulcimer 3", [[Interface\Addons\Media_Newsom\Soun
 LSM:Register("sound", "Newsom: Glass 1", [[Interface\Addons\Media_Newsom\Sounds\Glass_1.mp3]])
 LSM:Register("sound", "Newsom: Glass 2", [[Interface\Addons\Media_Newsom\Sounds\Glass_2.mp3]])
 LSM:Register("sound", "Newsom: Glass 3", [[Interface\Addons\Media_Newsom\Sounds\Glass_3.mp3]])
+LSM:Register("sound", "Wololo", [[Interface\Addons\Media_Newsom\Sounds\Wololo.mp3]])
