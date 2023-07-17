@@ -8,7 +8,7 @@
 
 Some screenshots:
 
-*All of these textures are included in WeakAuras2*
+*All of these bar textures are now included in WeakAuras2 with no need for this addon*
 
 ![Bar textures in-game screenshot](https://i.imgur.com/2hps5oX.png)
 
